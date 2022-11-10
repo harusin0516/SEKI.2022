@@ -1,0 +1,5 @@
+http://seki-kogyo.co.jp/wp-admin/
+ID:
+ sekiWPadmin
+Password:
+ @sekiN5wtDE1s
