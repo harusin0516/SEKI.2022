@@ -5,21 +5,49 @@ Password:
  @sekiN5wtDE1s
 
 
-
+テーマ１
 5743783b
-36H5[68y78
+4)s6EJU388
 
+テーマ２
+83dvsbv7
+5443348%H[
 
 uni.h.shindou@gmail.com
 !"#QWEASDCXZqwe
 
 
+bit 
+
+uid
+tnjr7434
+psw
+mqnG6MDA#W)K2hOv
+
+
+djang
+1,2,3
+php 
 
 
 
 お名前ドットコム
 
- 89066972
- vgKBd4rqH4c
+89066972
+vgKBd4rqH4c
 
 
+
+http://univgweb.com.testrs.jp/seki/?page_id=18
+http://univgweb.com.testrs.jp/seki/?page_id=29
+
+
+
+border-left: 6px solid #37a1d2;
+
+
+.midashi01 {
+	padding: .25em 0 .25em .75em;
+	border-left: 6px solid #37a1d2;
+	font-weight: bold;
+}
