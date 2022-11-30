@@ -1,3 +1,5 @@
+------------------------------
+【本番系】
 http://seki-kogyo.co.jp/wp-admin/
 ID:
  sekiWPadmin
@@ -20,3 +22,28 @@ http://univgweb.com.testrs.jp/seki/wp-admin/
 
 uni.h.shindou@gmail.com
 !"#QWEASDCXZqwe
+
+
+
+------------------------------
+【テスト用環境】
+
+http://univgweb.com.testrs.jp/seki
+
+db psw
+ @2022seki11
+
+ tnjr7434
+ 6)87654VkX
+
+5743783b
+64b783{,364 
+
+ DB：6ibi6_seki
+ usr：6ibi6_seki
+ psw：@2022seki11
+
+------------------------------
+【WordPress.com】
+uni.h.shindou@gmail.com
+Qk=Ht8tk6V.9
