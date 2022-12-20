@@ -2,9 +2,12 @@
 【本番系】
 http://seki-kogyo.co.jp/wp-admin/
 ID:
- sekiWPadmin
+sekiWPadmin
 Password:
- @sekiN5wtDE1s
+@sekiN5wtDE1s
+
+
+ http://www.seki-kogyo.co.jp/%e8%a3%bd%e5%93%81%e4%b8%80%e8%a6%a7
 
 
 ページ見るだけ
