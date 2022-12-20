@@ -11,22 +11,22 @@ https://ex-unit.nagoya/ja/
 
 
 
-/**********スマホ用緑メニューボタン*********/
-.vk-mobile-nav-menu-btn {
-	position: fixed;
-	top: 5px;
-	left: 5px;
-	z-index: 2100;
-	overflow: hidden;
-	border: 1px solid #333;
-	border-radius: 2px;
-	width: 34px;
-	height: 34px;
-	cursor: pointer;
-	text-indent: 0px;
-	background-size: 24px 24px;
-	transition: border-color .5s ease-out;
-	font-size: 10px;
-	text-align:center;
-	vertical-align: middle;
-}
+製品一覧
+http://www.seki-kogyo.co.jp/%E8%A3%BD%E5%93%81%E4%B8%80%E8%A6%A7
+
+http://www.seki-kogyo.co.jp/archives/541
+
+
+sukeltonbacket
+
+
+http://seki-kogyo.co.jp/?p=957#sukeltonbacket
+
+
+http://www.seki-kogyo.co.jp/archives/546
+
+
+http://www.seki-kogyo.co.jp/archives/995#graderdender
+
+
+seki-kogyo.co.jp/?p=905
